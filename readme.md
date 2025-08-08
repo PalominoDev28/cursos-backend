@@ -6,9 +6,9 @@ Este repositorio contiene mi progreso y soluciones los cursos de "Desarrollo Web
 
 | Día | Lenguaje | Tema | Estado | Fecha Completado |
 |-----|----------|------|--------|------------------|
-| 1   | JavaScript | Comentarios | ✅ | 2024-02-05 |
-| 2   | JavaScript | Variables | ✅ | 2024-02-06 |
-| 3   | JavaScript | Operador de asignación | ✅ | 2024-02-07 |
+| 1   | JavaScript | Comentarios | ✅ | 03/07/2025 |
+| 2   | JavaScript | Variables | ✅ | 07/08/2025 |
+| 3   | JavaScript | Operador de asignación | ✅ | 07/08/2025 |
 | 4   | JavaScript | Tipos de datos | ⏳ | - |
 | 5   | JavaScript | Operadores aritméticos | ⏳ | - |
 | 6   | JavaScript | Operadores de comparación | ⏳ | - |
