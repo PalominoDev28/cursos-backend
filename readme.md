@@ -9,7 +9,7 @@ Este repositorio contiene mi progreso y soluciones los cursos de "Desarrollo Web
 | 1   | JavaScript | Comentarios | ✅ | 03/07/2025 |
 | 2   | JavaScript | Variables | ✅ | 07/08/2025 |
 | 3   | JavaScript | Operador de asignación | ✅ | 07/08/2025 |
-| 4   | JavaScript | Tipos de datos | ⏳ | - |
+| 4   | JavaScript | Tipos de datos | ✅ | 09/08/2025 |
 | 5   | JavaScript | Operadores aritméticos | ⏳ | - |
 | 6   | JavaScript | Operadores de comparación | ⏳ | - |
 | 7   | JavaScript | Operadores lógicos | ⏳ | - |

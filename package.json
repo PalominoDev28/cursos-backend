@@ -1,0 +1,21 @@
+{
+  "name": "cursos-backend",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene mi progreso y soluciones los cursos de \"Desarrollo Web Back-End\" creado por [freeCodeCamp](https://github.com/estefaniacn).",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palominodev28/cursos-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palominodev28/cursos-backend/issues"
+  },
+  "homepage": "https://github.com/palominodev28/cursos-backend#readme"
+}
