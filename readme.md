@@ -10,8 +10,8 @@ Este repositorio contiene mi progreso y soluciones los cursos de "Desarrollo Web
 | 2   | JavaScript | Variables | ✅ | 07/08/2025 |
 | 3   | JavaScript | Operador de asignación | ✅ | 07/08/2025 |
 | 4   | JavaScript | Tipos de datos | ✅ | 09/08/2025 |
-| 5   | JavaScript | Operadores aritméticos | ⏳ | - |
-| 6   | JavaScript | Operadores de comparación | ⏳ | - |
+| 5   | JavaScript | Operadores aritméticos | ✅ | 14/08/2025 |
+| 6   | JavaScript | Operadores de comparación | ✅ | 14/08/2025 |
 | 7   | JavaScript | Operadores lógicos | ⏳ | - |
 | 8   | JavaScript | Estructuras condicionales | ⏳ | - |
 | 9   | JavaScript | Bucles (for, while) | ⏳ | - |
