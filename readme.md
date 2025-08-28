@@ -14,7 +14,7 @@ Este repositorio contiene mi progreso y soluciones los cursos de "Desarrollo Web
 | 6   | JavaScript | Operadores de comparación | ✅ | 14/08/2025 |
 | 7   | JavaScript | Operadores lógicos | ✅ | 21/08/2025 |
 | 8   | JavaScript | Estructuras condicionales | ✅ | 21/08/2025 |
-| 9   | JavaScript | Condicional Switch | ⏳ | - |
+| 9   | JavaScript | Condicional Switch | ✅ | 27-08/2025 |
 | 10  | JavaScript | Template Strings | ⏳ | - |
 | 11  | JavaScript | Conversión de tipos de datos | ⏳ | - |
 | 12  | JavaScript | Bucles (for, while) | ⏳ | - |
